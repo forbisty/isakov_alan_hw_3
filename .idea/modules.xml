@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Isakov_Alan_hw_1.zip.iml" filepath="$PROJECT_DIR$/Isakov_Alan_hw_1.zip.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Isakov_Alan_.zip.iml" filepath="$PROJECT_DIR$/Isakov_Alan_.zip.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Isakov_Alan_hw/Isakov_Alan_hw.iml" filepath="$PROJECT_DIR$/Isakov_Alan_hw/Isakov_Alan_hw.iml" />
     </modules>
   </component>
 </project>
